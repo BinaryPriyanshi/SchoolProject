@@ -1,0 +1,47 @@
+*{
+    background-color: aquamarine;
+}
+#hp img{
+    height:250px;
+    width:100%;
+
+
+}
+#name{
+    text-align: center;
+    
+}
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  #social{
+
+    padding-top: 0px;;
+    display: flex;
+    justify-content: center;
+  }
+  #social h4{
+    padding-right: 15px;;
+  }
+  #social #sot{
+    padding-left: 20px;;
+  }
+  .about{
+    display: flex;
+    padding-right: 20%;
+  }
+
+  #box2{
+    background-color:transparent;
+    margin-left:350px;;
+  }
+  .gallery{
+   
+  }
+  .gallery div{
+    height:50px;
+    width:50px;
+  }
+  
